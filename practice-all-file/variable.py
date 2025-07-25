@@ -53,6 +53,8 @@
 
 nicode, list, tuple, set, dict
 ইত্যাদি নানা ধরনের ডেটা টাইপের ব্যবহার রয়েছে পাইথনে।'''
+from operator import is_not
+
 #
 # a=1
 # print(type(a))
@@ -210,3 +212,27 @@ nicode, list, tuple, set, dict
 # print(stringCheck)
 
 
+
+#
+# a = 'Bangladesh'
+# b = 12
+# stringCheck=a is b
+# print(stringCheck)
+
+
+
+#
+#
+# a = 'Bangladesh'
+# b = 12
+# stringCheck=a is not b
+# print(stringCheck)
+#
+#
+#
+# a = 6000
+# b = 6000
+# check=b is a
+# print(check)
+
+#

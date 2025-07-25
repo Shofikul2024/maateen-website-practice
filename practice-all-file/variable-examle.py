@@ -1,5 +1,4 @@
 #
-#
 # x=12
 # print(x)
 # print(id(x))
@@ -9,8 +8,12 @@
 # x=5
 # print(x)
 #
+#
+
+#
 # x='python'
 # print(x)
+
 # print(id(x))
 # print(id(x))
 
@@ -172,12 +175,12 @@ from operator import is_not
 # a -= 3
 # print(a)
 
-#
+
 # a = 5
 # a *= 3
 # print(a)
 
-#
+
 # a = 5
 # a /= 2
 # print(a)

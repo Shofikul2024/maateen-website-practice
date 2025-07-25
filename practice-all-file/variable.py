@@ -1,15 +1,67 @@
+#
+#
+# x=12
+# print(x)
+# print(id(x))
+# x=10.34
+# print(x)
+# print(id(x))
+# x=5
+# print(x)
+#
+# x='python'
+# print(x)
+# print(id(x))
+# print(id(x))
 
 
-x=12
-print(x)
-print(id(x))
-x=10.34
-print(x)
-print(id(x))
-x=5
-print(x)
-print(id(x))
+#
+# x = 5
+# print(x)
+# x = 12
+# print(x)
+# x = 10.34
+#
+#
+# x = 'pythin'
 
-x='python'
-print(x)
-print(id(x))
+
+#
+# a=5
+# b=10
+# print(a*b)
+#
+#
+
+
+
+
+# a=5
+# print(type(a))
+# b=10
+# print(type(a))
+# print(a*b)
+# print(type(a*b))
+#
+
+
+
+
+
+''' সাধারণত আমরা এই চার ধরনের ডেটা টাইপই বে
+শি ব্যবহার করব। তবে এগুলো বাদেও long, complex,
+ unicode, list, tuple, set, dict
+
+ইত্যাদি নানা ধরনের ডেটা টাইপের ব্যবহার রয়েছে পাইথনে।'''
+
+a=1
+print(type(a))
+
+b=3.1416
+print(type(b))
+
+c='hello world'
+print(type(c))
+
+d=True
+print(type(d))

@@ -141,7 +141,72 @@ nicode, list, tuple, set, dict
 # result=a+b
 # print(result)
 
+#
+# a, b = map(int, input().split())
+# result = a + b
+# print(result)
 
-a, b = map(int, input().split())
-result = a + b
-print(result)
+'''   assignment operator '''
+
+
+
+#
+# x=2==2
+# print(x)
+
+
+#
+# a = 5
+# print(a)
+
+
+# a = 5
+# a += 2
+# print(a)
+#
+
+
+# a = 5
+# a -= 3
+# print(a)
+
+#
+# a = 5
+# a *= 3
+# print(a)
+
+#
+# a = 5
+# a /= 2
+# print(a)
+#
+
+
+
+
+# Membership operator
+
+
+
+# in  not in
+
+#
+# a= 'Bangladesh'
+# b='desh'
+# stringCheck=b in  a
+# print(stringCheck)
+
+
+
+
+
+'''   karon  desh  ti    b  ar  maje   store kora  nai '''
+
+#
+#
+# a= 'Bangladesh'
+# b='desh'
+# stringCheck=a in  b
+# print(stringCheck)
+
+

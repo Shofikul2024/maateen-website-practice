@@ -34,8 +34,8 @@
 #
 
 
-
-
+#
+#
 # a=5
 # print(type(a))
 # b=10
@@ -43,7 +43,7 @@
 # print(a*b)
 # print(type(a*b))
 #
-
+#
 
 
 
@@ -68,9 +68,80 @@ nicode, list, tuple, set, dict
 
 
 
+#
+# x= int(input('enter first number:'))
+# y=int(input('enter second number:'))
+# result=x+y
+# print(result)
+#
 
-x= int(input('enter first number:'))
-y=int(input('enter second number:'))
-result=x+y
+
+#
+#
+# x= input('enter first number:')
+# y=input('enter second number:')
+# x=int(x)
+# y=int(y)
+# result=x+y
+# print(result)
+#
+
+
+
+
+#
+#
+#
+# x= input('enter first number:')
+# y=input('enter second number:')
+# x=int(x)
+# y=int(y)
+# result=x*y
+# print(result)
+#
+
+
+
+#
+#
+# x= input('enter first number:')
+# y=input('enter second number:')
+# x=int(x)
+# y=int(y)
+# result=x/y
+# print(result)
+
+
+
+
+#
+#
+# x=5
+# print(type(x))
+#
+#
+#
+# x=str(x)
+# print(type(x))
+#
+#
+#
+#
+
+
+
+
+
+#
+#
+#
+# print(b)
+#
+# a,b=int(input().split()
+# result=a+b
+# print(result)
+
+
+a, b = map(int, input().split())
+result = a + b
 print(result)
-

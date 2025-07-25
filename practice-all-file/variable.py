@@ -49,19 +49,28 @@
 
 
 ''' সাধারণত আমরা এই চার ধরনের ডেটা টাইপই বে
-শি ব্যবহার করব। তবে এগুলো বাদেও long, complex,
- unicode, list, tuple, set, dict
+শি ব্যবহার করব। তবে এগুলো বাদেও long, complex, u
 
+nicode, list, tuple, set, dict
 ইত্যাদি নানা ধরনের ডেটা টাইপের ব্যবহার রয়েছে পাইথনে।'''
+#
+# a=1
+# print(type(a))
+#
+# b=3.1416
+# print(type(b))
+#
+# c='hello world'
+# print(type(c))
+#
+# d=True
+# print(type(d))
 
-a=1
-print(type(a))
 
-b=3.1416
-print(type(b))
 
-c='hello world'
-print(type(c))
 
-d=True
-print(type(d))
+x= int(input('enter first number:'))
+y=int(input('enter second number:'))
+result=x+y
+print(result)
+

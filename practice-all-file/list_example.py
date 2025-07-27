@@ -146,6 +146,13 @@ from os import remove
 
 
 
+#
+#
+#
+# b = ['onion', 'potato', 'ginger', 'cucumber', 1, 3.1416]
+# b[0] = 'rice'
+# print(b)
+
 
 
 

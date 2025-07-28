@@ -75,4 +75,7 @@
 
 
 a = 'shofikul islam'
-print(a[2:6])
+print(a[2:6]
+
+b = 'shofikul islam'
+print(b[0:6])

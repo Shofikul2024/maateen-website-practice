@@ -72,16 +72,38 @@
 # print(a[1:4])
 
 
-#
-#
+
+
+
+
+
+
+
+
+
 # a = 'shofikul islam'
-# print(a[2:6]
+# print(a[2:6])  # এখানে বন্ধনী যোগ করা হয়েছে
 #
 # b = 'shofikul islam'
-# print(b[0:6])
 
 
-a = 'shofikul islam'
-print(a[2:6])  # এখানে বন্ধনী যোগ করা হয়েছে
+
+
+
+
+#
+#
+# a = 'shofikul   islam'
+# print(a[2:6])
+#
+# b = 'shofikul islam'
+# print(b[:6])
+#
 
 b = 'shofikul islam'
+print(b[3:])
+
+
+
+a = 'bangla'
+print(a[-4])

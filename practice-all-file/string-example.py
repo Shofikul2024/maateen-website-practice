@@ -99,11 +99,33 @@
 # b = 'shofikul islam'
 # print(b[:6])
 #
+#
+# b = 'shofikul islam'
+# print(b[3:])
+#
+#
+#
+# a = 'bangla'
+# print(a[-4])
 
-b = 'shofikul islam'
-print(b[3:])
 
 
 
-a = 'bangla'
-print(a[-4])
+
+
+
+
+
+#
+# a = 'bangla'
+# print(a[-4])
+
+
+
+
+
+
+
+b = 'shofikul islam is a student '
+print(b[8:14])
+

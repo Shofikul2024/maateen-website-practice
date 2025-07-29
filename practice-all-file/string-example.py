@@ -123,9 +123,15 @@
 
 
 
+#
+#
+#
+# b = 'shofikul islam is a student '
+# print(b[8:14])
+#
 
 
 
-b = 'shofikul islam is a student '
-print(b[8:14])
+b = 'dhaka international university '
+print(b[19:])
 
